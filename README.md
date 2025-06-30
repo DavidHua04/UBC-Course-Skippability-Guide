@@ -1,4 +1,4 @@
-# UBC Course Skippability Guide （UBC选择性上课指南）
+# UBC Course Skippability Guide（UBC选择性上课指南）
 
 A practical, crowdsourced guide to UBC courses — not just about what the course *teaches*, but about whether you *need to show up*. This project evaluates the skippability of lectures, labs, tutorials, and other components, with an emphasis on how each part affects grades, learning outcomes, and time efficiency.
 
