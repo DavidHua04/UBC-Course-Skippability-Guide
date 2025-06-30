@@ -23,7 +23,7 @@ A practical, crowdsourced guide to UBC courses — not just about what the cours
   每门课程以 Markdown 文件记录，放在 `courses/<院系>/<课程编号>/<课程编号__教师__学期>.md`
 - Example: `courses/CPSC/CPSC110/CPSC110__GregorKiczales__2023W1.md`
 
-文件格式本身不做强制要求，但理想来说，每个文件应基于**[`模板`](TEMPLATE.md)**包含以下部分：
+文件格式本身不做强制要求，但理想来说，每个文件应基于[`模板`](TEMPLATE.md)包含以下部分：
 - Course overview (term, instructor) / 课程基本信息
 - Skippability table / 各模块出勤评估表
 - Workload estimates / 工作量估计
