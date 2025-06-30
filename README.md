@@ -43,7 +43,7 @@ We welcome all contributions from students who have taken UBC courses. If you’
 
 1. Fork this repository  
 2. Add a new course file or edit an existing one under `courses/`
-3. Follow the format in [`CONTRIBUTING.md`](CONTRIBUTING.md)
+3. Follow the format in [`TEMPLATE.md`](TEMPLATE.md)
 4. Submit a pull request with course name, term, and instructor in the title
 
 ---
