@@ -67,7 +67,7 @@ This project is licensed under the **[`MIT License`](LICENSE)**.
 You are free to use, copy, modify, and redistribute contributions under the terms of the license.  
 By submitting content, you agree to license your contribution under MIT and affirm that your writing is original and compliant with academic integrity standards.
 
-本项目遵循 **MIT 开源协议**，你可以自由使用、修改、转载本仓库的内容。提交内容即代表你同意按该协议开源，并确认你的内容原创且不违反UBC学术诚信政策。
+本项目遵循 **[`MIT 开源协议`](LICENSE)**，你可以自由使用、修改、转载本仓库的内容。提交内容即代表你同意按该协议开源，并确认你的内容原创且不违反UBC学术诚信政策。
 
 ---
 
