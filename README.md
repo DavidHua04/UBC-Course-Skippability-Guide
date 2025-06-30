@@ -63,7 +63,7 @@ Please **do not** include:
 
 ## License / 开源协议
 
-This project is licensed under the **MIT License**[`MIT License`](LISENSE).  
+This project is licensed under the **[`MIT License`](LICENSE)**.  
 You are free to use, copy, modify, and redistribute contributions under the terms of the license.  
 By submitting content, you agree to license your contribution under MIT and affirm that your writing is original and compliant with academic integrity standards.
 
