@@ -20,9 +20,9 @@ A practical, crowdsourced guide to UBC courses — not just about what the cours
 
 ## Repository Structure / 仓库结构
 
-- Each course has a Markdown file: `courses/<Department>/<CourseCode>.md`  
-  每门课程以 Markdown 文件记录，放在 `courses/<院系>/<课程编号>.md`
-- Example: `courses/CPSC/CPSC110.md`
+- Each course has a Markdown file: `courses/<Department>/<CourseCode>/<CourseCode_instructor_term>.md`  
+  每门课程以 Markdown 文件记录，放在 `courses/<院系>/<课程编号>/<课程编号__教师__学期>.md`
+- Example: `courses/CPSC/CPSC110/CPSC110__GregorKiczales__2023W1.md`
 
 每个文件应基于模板包含以下部分：
 - Course overview (term, instructor) / 课程基本信息
