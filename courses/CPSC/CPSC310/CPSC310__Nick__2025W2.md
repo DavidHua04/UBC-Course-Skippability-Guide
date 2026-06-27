@@ -1,0 +1,6 @@
+310是关于Software Engineering的一门相当无聊的课，项目是定死的，并且考试是纯粹的选择题。考虑到是必修所以没什么办法，不然不推荐310。
+
+课程本身Lecture记participation，抛开participation基本没什么有用的内容，看PPT效率高一点。
+Tutorial主要是project的grading，所以必须得去，不过我上的时候是线上并且只需要去自己对应的5-10分钟。项目本身设计的其实还行，不过最好找一个靠谱的队友，不然需要把每个endpoint都自己写自己测还是有点累的。而且评分用的github bot有每天评分的次数限制，每个人各3次，所以需要队友配合进行测试。
+
+我也有TA过26summer的310，我带的这个版本的tutorial必须线下而且没有制定时间表，所以更混乱一点，但也有可能是因为canvas被黑所以需要课程迁移到PrairieLearn导致这一学期比较混乱。
